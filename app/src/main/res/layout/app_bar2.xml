@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#d2d0d0"
+    android:gravity="center_vertical"
+    app:layout_collapseMode="pin"
+    app:layout_scrollFlags="scroll|enterAlways"
+    app:theme="@style/MyToolbarTheme" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+    <ImageView
+        android:id="@+id/backimgvi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_action_clear"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/donebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="Done"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.Toolbar>

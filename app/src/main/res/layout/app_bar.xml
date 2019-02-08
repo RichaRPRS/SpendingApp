@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/appback"
+    android:gravity="center_vertical"
+    app:layout_collapseMode="pin"
+    app:layout_scrollFlags="scroll|enterAlways"
+    app:theme="@style/MyToolbarTheme" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/maintextv"
+        android:textColor="@color/chocolate"
+        android:textSize="16sp"
+        android:text="month"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/ic_action_downarrow"
+        android:paddingRight="20dp"/>
+
+    <ImageView
+        android:id="@+id/chart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/ic_action_chart" />
+
+
+</android.support.v7.widget.Toolbar>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorcardback">#ca3e1f</color>
+    <color name="colorblack">#000000</color>
+    <color name="DarkCyan">#008b8b</color>
+
+    <color name="spinnerpopup">#b390ec</color>
+
+    <color name="lightblue">#ded4ed</color>
+
+    <color name="red">#d91010</color>
+    <color name="blue">#304797</color>
+    <color name="bluelight">#606fa6</color>
+    <color name="greenlight">#92ba82</color>
+    <color name="green">#357633</color>
+
+    <color name="yellow">#f4ea5c</color>
+    <color name="white">#ffffff</color>
+
+    <color name="chocolate">#be5252</color>
+    <color name="chocolatelight">#ecbaba</color>
+    <color name="greenlight2">#cfeac4</color>
+    <color name="appback">#f2f0df</color>
+    <color name="background">#a3a09e</color>
+</resources>

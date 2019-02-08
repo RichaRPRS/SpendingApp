@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">SpendingApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Profile name</string>
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+
+    <string-array name="valid">
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+    <string name="textviewtext">You have not created any post.
+        \n\t\t Please Click on below <big>Plus</big> Button for adding new posts</string>
+
+    <string name="profiletext">You can add extra Account here.
+        For example you may want to have different accounts for different people,
+        or have a separate \'Saving\' account.</string>
+
+    <string name="alert_category">Here you can edit:\n\n
+        Name:\n
+        A descriptive identifier for the Category.\n\n
+        Icon:\n
+        A graphical identifier for Category.
+
+    </string>
+
+    <string name="alert_transaction">
+        These details are required to be entered:\n\n
+        Date:\n
+        The date the Transaction occurred.\n\n
+        Category:\n
+        The Category the Transaction falls into e.g. Clothes,Salary.\n\n
+        Amount:\n
+        The monetary amount.
+    </string>
+    <string name="alert_profile">
+        Here you can edit:\n\n
+        Name:\n
+        A descriptive identifier for the Account.\n\n
+        Mobile:\n
+        10 digit Mobile Number.
+    </string>
+
+    <string name="about_us">E-mail: sales@reichprinz.com</string>
+    <string name="about_us_details2">Website: www.reichprinz.com</string>
+    <string name="about_us_details">\t\tThe simple fact is, by tracking your spending you
+        will be able to stick to a budget and therefore SAVE MONEY.\n\n
+         \t\tEnter your expenses and income, and have instant control over your spending!</string>
+
+    <!--testing -->
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_video">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_app_id2">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_home_footer2">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen2">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_video2">ca-app-pub-3940256099942544/5224354917</string>-->
+
+
+    <string name="admob_app_id">ca-app-pub-4052771698831709~9645981030</string>
+    <string name="banner_home_footer">ca-app-pub-4052771698831709/3196122759</string>
+    <string name="interstitial_full_screen">ca-app-pub-4052771698831709/1711650691</string>
+    <string name="rewarded_video">ca-app-pub-4052771698831709/2494728255</string>
+    <string name="admob_app_id2">ca-app-pub-6033450924958808~9411004981</string>
+    <string name="banner_home_footer2">ca-app-pub-6033450924958808/7340209569</string>
+    <string name="interstitial_full_screen2">ca-app-pub-6033450924958808/9332071796</string>
+
+
+</resources>
